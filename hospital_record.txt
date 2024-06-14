@@ -1,0 +1,7 @@
+1100|Talha|20|M|03347007890|11:00PM|Fever|*
+
+1122Ahad|Ahad|20|M|03347007890|10:00AM|Malaria|*
+
+1100Ahsan|Ahsan|22|M|06322109889|02:00PM|fever|*
+
+1100jk|jk|77|M|000000|12:00PM|Malaria|*
